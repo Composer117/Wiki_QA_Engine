@@ -1,3 +1,5 @@
 transformers
 wikipedia
 torch
+langdetect
+googletrans==3.1.0a0
